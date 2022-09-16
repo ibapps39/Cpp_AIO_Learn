@@ -1,3 +1,28 @@
+#pragma once
+#ifndef CPP_LEARN
+#define CPP_LEARN
+// C++ Basic Knowledge: Beginner Level
+// Understanding how Functions work in C++
+
+// Understanding Data Types in C++
+
+// Understanding Pointers in C++
+
+// Passing by value vs Passing by reference in C++
+
+// Understanding References in C++
+
+// User-Defined Types in C++: Part 1
+
+// User-Defined Types in C++: Part II
+
+// Dynamic Memory Allocation in C++
+
+
+#endif // !CPP_LEARN
+
+
+
 // https://www.haroldserrano.com/articles
 /*C++ Articles
 To develop a Game Engine, you can use any language you want. I use C++. It is fast and powerful. If you are planning to develop your engine using C++, I recommend you to read these articles.
